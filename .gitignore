@@ -1,0 +1,8 @@
+# Webstorm
+.idea/
+
+# Top level js
+/*.js
+
+# Unobfuscated space game
+examples/space.js
